@@ -5,7 +5,7 @@
 #How to Run the code:
 
 1. Load all the data from the folder Codebook and also from the folder data or split_csv.py from "Context-aware-Spectrum-Coexistence-Analyzer". URL: https://github.com/NextG-Wireless-Lab-Mason/Context-aware-Spectrum-Coexistence-Analyzer.
-2. Run the rest_server.py which will send the necessary information to the simulator.py. Additionally to create the Environment of the DSA framework, access all the information from the DSA folder of the Context-aware-Spectrum-Coexistence-Analyzer. URL: https://github.com/NextG-Wireless-Lab-Mason/Context-aware-Spectrum-Coexistence-Analyzer.
+2. Run the rest_server.py which will send the necessary information to the simulator.py. Additionally to create the Environment of the DSA framework, access all the information from the DSA folder of the "Context-aware-Spectrum-Coexistence-Analyzer". URL: https://github.com/NextG-Wireless-Lab-Mason/Context-aware-Spectrum-Coexistence-Analyzer.
 4. Run the simulator.py which will analyze the I/N for all the MBSs.
 5. Run the app.py
 
