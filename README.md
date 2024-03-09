@@ -5,7 +5,7 @@
 #How to Run the code:
 
 1. First, gather all required data by accessing the contents within the "Codebook" folder and the "data" folder or utilize the split_csv.py script provided in the "Context-aware-Spectrum-Coexistence-Analyzer" project [1].
-3. Run the rest_server.py which will send the necessary information to the simulator.py. For setting up the Dynamic Spectrum Access (DSA) framework's environment, ensure to utilize the information from the "DSA" folder located in the "Context-aware-Spectrum-Coexistence-Analyzer" [1].
+3. Run the rest_server.py which will send the necessary information to the simulator.py. For setting up the Dynamic Spectrum Access (DSA) framework's environment, ensure to incorporate all the information from the "DSA" folder located in the "Context-aware-Spectrum-Coexistence-Analyzer" [1].
 4. Run the simulator.py which will analyze the I/N for all the MBSs and dynamically optimize the multi-antenna MBSs’ parameters using a polynomial time complexity MBS control algorithm.
 5. Run the app.py
 
