@@ -1,6 +1,9 @@
 # Context-Aware-Terrestrial-Satellite-Spectrum-Sharing-(CAT3S)- Case Study of 12 GHz Band
 
+#Project Overview:
 
+This project proposes a holistic, multi-disciplinary, context-aware spectrum-sharing approach to address the spectrum coexistence of broadband wireless systems in satellite bands. In this work, we developed a novel context-aware (i.e. weather-sunny & rainy) spectrum-sharing framework "CAT3S" for enabling spectrum coexistence of 5G broadband in 12 GHz satellite bands by considering a realistic deployment of the FSS receiver (1770 Forecast Drive, Blacksburg, Virginia), the exact position of all 33 MBS (Macro Base Station) from opencellID within a 5000m circular area, and Geolocation data of 8644 Buildings from OpenStreetMap.
+The DSA framework will transmit exclusion zone and weather details, base station information, and interference thresholds for both sunny and rainy weather to the simulator. Therefore, the simulator will start analyzing the interference for each MBS based on the industry-standardized beamforming at MBSs, directional signal reception at FSS receivers, channel scheduling at 5G MBSs, Set of Interfering Beams from 5G MBS, Path Loss between Interfering MBS and FSS, and Noise power. Moreover, the aggregate interference-to-noise ratio is calculated for each MBS. If the interference-to-noise ratio (I/N) for an MBS meets the threshold requirements considering the weather and exclusion zones, the MBS will be marked as "Active"; otherwise, it will be marked as "Inactive."
 
 #How to Run the code:
 
