@@ -10,13 +10,14 @@
 5. Run the app.py
 
 #References:
+
 [1] "Context-aware-Spectrum-Coexistence-Analyzer"- URL: https://github.com/NextG-Wireless-Lab-Mason/Context-aware-Spectrum-Coexistence-Analyzer.
 
 #Acknowledgement:
 
 This project is generously supported by the National Science Foundation under Award # 2128584. Find more information about the project here: https://www.nextgwirelesslab.org/current-projects/spectrum-sharing-in-satellite-bands
 
-Relevant Publications
+#Relevant Publications
 
 [1] T. Niloy, Z. Hassan, R. Smith, V. Anapana, and V. K. Shah, Context-Aware Spectrum Coexistence of Terrestrial Beyond 5G Networks in Satellite Bands, IEEE Conference of Dynamic Spectrum Access Networks (DySPAN), 2024
 
