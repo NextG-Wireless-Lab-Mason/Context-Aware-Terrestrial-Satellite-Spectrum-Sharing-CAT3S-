@@ -22,7 +22,7 @@ This project is generously supported by the National Science Foundation under Aw
 
 #Relevant Publications
 
-[1] T. Niloy, Z. Hassan, R. Smith, V. Anapana, and V. K. Shah, Context-Aware Spectrum Coexistence of Terrestrial Beyond 5G Networks in Satellite Bands, IEEE Conference of Dynamic Spectrum Access Networks (DySPAN), 2024
+[1] T. Niloy, Z. Hassan, R. Smith, V. Anapana, and V. K. Shah, Context-Aware Spectrum Coexistence of Terrestrial Beyond 5G Networks in Satellite Bands, IEEE Conference of Dynamic Spectrum Access Networks (DySPAN), 2024. Link: https://arxiv.org/pdf/2402.04447.pdf
 
 [2] T. Niloy, S. Kumar, A. Hore, Z. Hassan, E. Burger, C. Dietrich, J. Reed, and V. K. Shah, ASCENT: A Context-Aware Spectrum Coexistence Design and Implementation Toolset for Policymakers in Satellite Bands, IEEE Conference of Dynamic Spectrum Access Networks (DySPAN), 2024. Link: https://arxiv.org/abs/2402.05273
 
